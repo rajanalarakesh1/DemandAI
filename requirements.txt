@@ -1,0 +1,10 @@
+DemandAI/
+│
+├── app.py
+├── DemandAI.ipynb
+├── demandai_sales_dataset.csv
+├── demandai_model.pkl
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── .venv/
